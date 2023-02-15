@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Rakesharunachalam.github.io/Dbotproject",
+  "homepage": "http://Rakesharunachalam.github.io/Dbot2",
   "name": "dbot",
   
   "version": "0.1.0",
@@ -37,7 +37,6 @@
   "scripts": {
     "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
-    
   "start": "react-scripts start",
   
     
