@@ -31,7 +31,7 @@ function Product() {
             <tr>
               <td>1</td>
               <td><input type="checkbox"></input> </td>
-              <td className='productpic'><img className='productpic' src='/product1.jpg'></img></td>
+              <td className='productpic'><img className='productpic' alt='loading...' src='/product1.jpg'></img></td>
               <td>Iphone 13 Pro Max</td>
               <td>Lorem</td>
               <td>Lorem</td>
@@ -41,7 +41,7 @@ function Product() {
             <tr>
               <td>2</td>
               <td><input type="checkbox"></input> </td>
-              <td className='productpic'><img className='productpic' src='/product1.jpg'></img></td>
+              <td className='productpic'><img className='productpic' alt='loading...' src='/product1.jpg'></img></td>
               <td>Iphone 13 Pro Max</td>
               <td>Lorem</td>
               <td>Lorem</td>
@@ -51,7 +51,7 @@ function Product() {
             <tr>
               <td>3</td>
               <td><input type="checkbox"></input> </td>
-              <td className='productpic'><img className='productpic' src='/product1.jpg'></img></td>
+              <td className='productpic'><img className='productpic' alt='loading...' src='/product1.jpg'></img></td>
               <td>Iphone 13 Pro Max</td>
               <td>Lorem</td>
               <td>Lorem</td>
@@ -61,7 +61,7 @@ function Product() {
             <tr>
               <td>4</td>
               <td><input type="checkbox"></input> </td>
-              <td className='productpic'><img className='productpic' src='/product1.jpg'></img></td>
+              <td className='productpic'><img className='productpic' alt='loading...' src='/product1.jpg'></img></td>
               <td>Iphone 13 Pro Max</td>
               <td>Lorem</td>
               <td>Lorem</td>
@@ -71,7 +71,7 @@ function Product() {
             <tr>
               <td>4</td>
               <td><input type="checkbox"></input> </td>
-              <td className='productpic'><img className='productpic' src='/product1.jpg'></img></td>
+              <td className='productpic'><img className='productpic' alt='loading...' src='/product1.jpg'></img></td>
               <td>Iphone 13 Pro Max</td>
               <td>Lorem</td>
               <td>Lorem</td>

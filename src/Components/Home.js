@@ -4,7 +4,7 @@ function Home() {
   return (
     <div className='home'>
     <div className='navBar'>
-        <img className='logo' src='./pic1.jpg'></img>
+        <img className='logo' alt='loading...' src='./pic1.jpg'></img>
         <h1 className='company-name'>Sell Do Software</h1>
     </div>
     <div className='menu-item'>

@@ -1,10 +1,9 @@
-import { BrowserRouter, Route, Link, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import AddUser from "./Components/AddUser";
 import Home from "./Components/Home";
 import Product from "./Components/Product";
 import ViewUser from "./Components/ViewUser";
 import Customer from "./Components/Customer";
-import editUser from "./Components/EditUser";
 import { useState } from "react";
 import EditUser from "./Components/EditUser";
 function App() {
